@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Examining the rationality of Giant Panda National Park's zoning designations and management measures for habitat conservation: Insights from interpretable machine learning methods"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2024-02-13
+venue: 'Science of The Total Environment'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0048969724010945'
+citation: 'Xu, Y., & Tang, J. (2024). &quot;Examining the rationality of Giant Panda National Park's zoning designations and management measures for habitat conservation: Insights from interpretable machine learning methods.&quot; <i>Science of The Total Environment</i>. 1(3).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Xu, Y., & Tang, J. (2024). "Examining the rationality of Giant Panda National Park's zoning designations and management measures for habitat conservation: Insights from interpretable machine learning methods" <i>Science of The Total Environment</i>. 1(3).
