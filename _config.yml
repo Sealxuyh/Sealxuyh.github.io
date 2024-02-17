@@ -11,7 +11,7 @@ title                    : "Yuhan Xu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yuhan Xu's Personal Homepage"
 description              : &description "personal description"
-url                      : https://Sealxuyh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sealxuyh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,7 +23,7 @@ author:
   avatar           : "profile.png"
   name             : "Yuhan Xu"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A master's student major in Landscape Architecture"
   location         : "Nanjing, China"
   employer         : "Southeast University"
   uri              : # URL
