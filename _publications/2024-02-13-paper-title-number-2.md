@@ -6,7 +6,7 @@ excerpt: 'Our methods can be used for other data-poor national parks or protecte
 date: 2024-02-13
 venue: 'Science of The Total Environment'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0048969724010945'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Your Name, You. (2024). &quot;Examining the rationality of Giant Panda National Park's zoning designations and management measures for habitat conservation: Insights from interpretable machine learning methods.&quot; <i>Journal 1</i>. 1(2).'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
