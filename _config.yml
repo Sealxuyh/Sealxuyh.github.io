@@ -11,7 +11,7 @@ title                    : "Yuhan Xu/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yuhan Xu"
 description              : &description "a graduate student from Southeast University"
-url                      : https://yuhanxu.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : yuhanxu.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sealxuyh/Sealxuyh.github.io"
 
