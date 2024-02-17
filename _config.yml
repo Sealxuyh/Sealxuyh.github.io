@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuhan Xu"
+title                    : "Yuhan Xu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yuhan Xu"
 description              : &description "personal description"
