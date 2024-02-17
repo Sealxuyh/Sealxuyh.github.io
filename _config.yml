@@ -23,9 +23,9 @@ author:
   avatar           : "profile_xuyh.png"
   name             : "Yuhan Xu"
   pronouns         : "she/her"  
-  bio              : "A master's student major in Landscape Architecture"
-  location         : "Nanjing, China"
-  employer         : "Southeast University"
+  bio              : "A master's student majoring in Landscape Architecture"
+  location         : " Nanjing, China"
+  employer         : " Southeast University"
   uri              : # URL
   email            : "xu_yh@seu.edu.cn" 
 
@@ -41,12 +41,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  # github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  # twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
