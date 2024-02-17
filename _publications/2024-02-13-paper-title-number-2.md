@@ -1,8 +1,8 @@
 ---
 title: "Examining the rationality of Giant Panda National Park's zoning designations and management measures for habitat conservation: Insights from interpretable machine learning methods"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/2024-02-13-paper-title-number-2
+excerpt: 'Our methods can be used for other data-poor national parks or protected areas.'
 date: 2024-02-13
 venue: 'Science of The Total Environment'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
