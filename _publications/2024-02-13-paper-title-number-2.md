@@ -8,4 +8,5 @@ venue: 'Science of The Total Environment'
 paperurl: 'https://doi.org/10.1016/j.scitotenv.2024.170955'
 citation: "Xu, Y., & Tang, J. (2024). \"Examining the rationality of Giant Panda National Park's zoning designations and management measures for habitat conservation: Insights from interpretable machine learning methods.\" Science of The Total Environment, 170955."
 ---
-[Download paper here](http://academicpages.github.io/files/1-s2.0-S0048969724010945-main.pdf)
+
+[Download paper here](http://sealxuyh.github.io/files/1-s2.0-S0048969724010945-main.pdf)
