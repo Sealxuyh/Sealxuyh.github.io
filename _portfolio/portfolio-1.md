@@ -1,6 +1,6 @@
 ---
 title: "RACE TO NET ZERO"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/proj1p1.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/proj1p1.png'><img src='/images/proj1p2.png'>"
 collection: portfolio
 ---
 
