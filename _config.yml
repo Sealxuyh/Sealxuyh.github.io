@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuhan Xu/Personal Homepage"
+title                    : "Hello, Academia!"
 title_separator          : "-"
 name                     : &name "Yuhan Xu"
 description              : &description "a graduate student from Southeast University"
