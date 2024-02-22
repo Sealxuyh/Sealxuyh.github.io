@@ -3,7 +3,7 @@ title: "REVIVING AND RECREATING TRADITIONAL STREETS THROUGH DL AND AI"
 excerpt: "Teamwork on Urban Revitalization in Guangzhou's Historical District, focusing on 1980s characteristics, urban typology analysis, site redevelopment, GAN-based morphology generation, and street design using Stable Diffusion & MidJourney, with future goals in AI-enhanced urban planning.<br/><img src='/images/proj1p3.png'>"
 collection: portfolio
 ---
-# Academic Project: Urban Revitalization Through AI
+# Academic Project: Urban Revitalization
 
 **Duration:** July 2023  
 **Location:** Historical District, Guangzhou, China  
@@ -37,7 +37,7 @@ collection: portfolio
    - AI-Assisted Design Reflections: Acknowledging the efficiency and innovation benefits of AI-assisted design while recognizing potential challenges like dependency and data privacy.
    - Future Aspirations: Hoping for real-time environmental perception and optimization post AI-generated design, enhancing augmented reality applications in architecture and urban design, and improving collaboration within design teams.
 
-
+<img src='/images/proj3p1.png'><img src='/images/proj3p2.png'>
 <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
