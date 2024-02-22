@@ -1,6 +1,6 @@
 ---
 title: "REVIVING AND RECREATING TRADITIONAL STREETS THROUGH DL AND AI"
-excerpt: "Teamwork on Urban Revitalization in Guangzhou's Historical District, focusing on 1980s characteristics, urban typology analysis, site redevelopment, GAN-based morphology generation, and street design using Stable Diffusion & Midjourney, with future goals in AI-enhanced urban planning.<br/><img src='/images/proj1p3.png'>"
+excerpt: "Teamwork on Urban Revitalization in Guangzhou's Historical District, focusing on 1980s characteristics, urban typology analysis, site redevelopment, GAN-based morphology generation, and street design using Stable Diffusion & Midjourney, with future goals in AI-enhanced urban planning.<br/><img src='/images/proj3p3.png'>"
 collection: portfolio
 ---
 # Academic Project: Urban Revitalization
