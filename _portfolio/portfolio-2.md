@@ -1,6 +1,6 @@
 ---
 title: "REVIVING AND RECREATING TRADITIONAL STREETS THROUGH DL AND AI"
-excerpt: "Teamwork on Urban Revitalization in Guangzhou's Historical District, focusing on 1980s characteristics, urban typology analysis, site redevelopment, GAN-based morphology generation, and street design using Stable Diffusion & MidJourney, with future goals in AI-enhanced urban planning.<br/><img src='/images/proj1p3.png'>"
+excerpt: "Teamwork on Urban Revitalization in Guangzhou's Historical District, focusing on 1980s characteristics, urban typology analysis, site redevelopment, GAN-based morphology generation, and street design using Stable Diffusion & Midjourney, with future goals in AI-enhanced urban planning.<br/><img src='/images/proj1p3.png'>"
 collection: portfolio
 ---
 # Academic Project: Urban Revitalization
@@ -9,7 +9,7 @@ collection: portfolio
 **Location:** Historical District, Guangzhou, China  
 **Instructors:** Qiaoming Deng, Kai Hu  
 **Type:** Teamwork (Main responsibilities for the following Part 2, 3, 4; Participation in Part 5, 6)  
-**Skills:** K-means Clustering, Generative Adversarial Network (GAN), Stable Diffusion & MidJourney
+**Skills:** K-means Clustering, Generative Adversarial Network (GAN), Stable Diffusion & Midjourney
 
 1. **Characteristics of Guangzhou's West Gate in the 1980s:**
    - Transition to Economic Focus: In the 1980s, Guangzhou shifted its focus to economic development, witnessing increased trade and complex urban functions.
@@ -28,7 +28,7 @@ collection: portfolio
    - Preservation Strategy: Retaining existing heritage structures per conservation plans.
    - Model Selection: Employing GAN to generate a traditional public street district, with fine-tuning based on generated results and current skyline.
 
-5. **Street Design Using Stable Diffusion & MidJourney:**
+5. **Street Design Using Stable Diffusion & Midjourney:**
    - Integrating Styles: Blending neoclassical, arcade features, and modern elements for a harmonious riverside aesthetic.
    - Keyword Integration: Incorporating keywords such as 1980s, neoclassical, arcade, and modern architecture into the GPT model for street design.
 
