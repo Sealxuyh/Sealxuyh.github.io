@@ -1,6 +1,6 @@
 ---
 title: "THE BIGGEST LITTLE FARM"
-excerpt: "Collaborative academic project on urban agriculture landscape in Scampia, Naples, embracing cyberfeminist principles to empower local women through the creation of a digital platform within the central park. The initiative aims to showcase Italian food culture and daily lives, fostering female empowerment through high-quality videos and online awareness.<br/><img src='/images/proj5p3.png'>"
+excerpt: "This project focuses on urban agriculture landscape in Scampia, Naples, embracing cyberfeminist principles to empower local women through the creation of a digital platform within the central park. The initiative aims to showcase Italian food culture and daily lives, fostering female empowerment through high-quality videos and online awareness.<br/><img src='/images/proj5p3.png'>"
 collection: portfolio
 ---
 # Academic Project: Urban Agriculture Landscape
