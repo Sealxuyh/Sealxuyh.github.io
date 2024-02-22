@@ -1,6 +1,6 @@
 ---
 title: "REVIVING AND RECREATING TRADITIONAL STREETS THROUGH DL AND AI"
-excerpt: ""Teamwork on Urban Revitalization in Guangzhou's Historical District, focusing on 1980s characteristics, urban typology analysis, site redevelopment, GAN-based morphology generation, and street design using Stable Diffusion & MidJourney, with future goals in AI-enhanced urban planning.".<br/><img src='/images/proj1p3.png'>"
+excerpt: ""Teamwork on Urban Revitalization in Guangzhou's Historical District, focusing on 1980s characteristics, urban typology analysis, site redevelopment, GAN-based morphology generation, and street design using Stable Diffusion & MidJourney, with future goals in AI-enhanced urban planning.<br/><img src='/images/proj1p3.png'>"
 collection: portfolio
 ---
 # Academic Project: Urban Revitalization in Guangzhou's Historical District
@@ -41,19 +41,10 @@ collection: portfolio
 <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/proj1p1.png" class="d-block w-100" alt="Slide 1">
+      <img src="/images/proj3p1.png" class="d-block w-100" alt="Slide 1">
     </div>
     <div class="carousel-item">
-      <img src="/images/proj1p2.png" class="d-block w-100" alt="Slide 2">
-    </div>
-    <div class="carousel-item">
-      <img src="/images/proj1p3.png" class="d-block w-100" alt="Slide 3">
-    </div>
-    <div class="carousel-item">
-      <img src="/images/proj1p4.png" class="d-block w-100" alt="Slide 4">
-    </div>
-    <div class="carousel-item">
-      <img src="/images/proj1p5.png" class="d-block w-100" alt="Slide 5">
+      <img src="/images/proj3p2.png" class="d-block w-100" alt="Slide 2">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
