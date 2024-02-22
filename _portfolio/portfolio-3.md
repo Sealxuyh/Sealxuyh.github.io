@@ -10,7 +10,7 @@ collection: portfolio
 **Location:** Los Angeles, California, USA  
 **Instructors:** Ziyi Tang  
 **Type:** Individual Work  
-**Skills:** Python, ArcGIS
+**Skills:** Python, ArcGIS, AHP
 
 In response to the significant carbon emissions from the transportation sector, this project aligns with the growing global commitment to carbon neutrality. Focused on the promotion of electric vehicles (EVs), the endeavor acknowledges the critical need for EV infrastructure development, particularly charging stations. In the heart of downtown Los Angeles, leveraging POI access data for visitor analysis, the study meticulously identified and assessed 600 on-street parking lots, strategically proposing solutions to enhance and supplement the existing EV charging facilities.
 
