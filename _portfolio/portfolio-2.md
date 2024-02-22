@@ -3,12 +3,12 @@ title: "REVIVING AND RECREATING TRADITIONAL STREETS THROUGH DL AND AI"
 excerpt: "Teamwork on Urban Revitalization in Guangzhou's Historical District, focusing on 1980s characteristics, urban typology analysis, site redevelopment, GAN-based morphology generation, and street design using Stable Diffusion & MidJourney, with future goals in AI-enhanced urban planning.<br/><img src='/images/proj1p3.png'>"
 collection: portfolio
 ---
-# Academic Project: Urban Revitalization in Guangzhou's Historical District
+# Academic Project: Urban Revitalization Through AI
 
 **Duration:** July 2023  
 **Location:** Historical District, Guangzhou, China  
 **Instructors:** Qiaoming Deng, Kai Hu  
-**Type:** Teamwork (Main responsibilities for the following Part 2, 3, 4; Participation in Part 5, 6)
+**Type:** Teamwork (Main responsibilities for the following Part 2, 3, 4; Participation in Part 5, 6)  
 **Skills:** K-means Clustering, Generative Adversarial Network (GAN), Stable Diffusion & MidJourney
 
 1. **Characteristics of Guangzhou's West Gate in the 1980s:**
