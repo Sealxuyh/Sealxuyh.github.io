@@ -28,4 +28,4 @@ This project, conducted at regional and plot scales, aims to optimize green spac
 
 This project adopts a holistic approach to sustainable urban design, addressing climate challenges through thoughtful planning and innovative technologies.
 
-<br/><img src='/images/proj1p1.png'><img src='/images/proj1p2.png'><img src='/images/proj1p3.png'><img src='/images/proj1p4.png'><img src='/images/proj1p5.png'>
+<img src='/images/proj1p1.png'><img src='/images/proj1p2.png'><img src='/images/proj1p3.png'><img src='/images/proj1p4.png'><img src='/images/proj1p5.png'>
