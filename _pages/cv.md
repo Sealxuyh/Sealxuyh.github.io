@@ -16,7 +16,7 @@ Education
   * Supervisor: Jun Tang
 * B.S. in Landscape Architecture, Southeast University, 2022
   * Average Score: 89.29/100
-  * Graduation Project: 93/100
+  * Graduation Project: 93/100 (Supervisor: Xiaosu Ma)
 
 
 Publications
