@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am Yuhan Xu, a dynamic Master's student in Landscape Architecture at Southeast University, China. My research pursuits encompass the intricate balance between urban development, environmental conservation, and innovative methodologies. My recent publication, "Examining the rationality of Giant Panda National Park's zoning designations and management measures for habitat conservation," showcases my commitment to habitat conservation using interpretable machine learning methods (Science of The Total Environment, 170955).
+
+My research interests revolve around the synergy between urban development and environmental sustainability. Currently exploring topics like destigmatizing urban villages, evaluating carbon-conscious public service facility distribution, and assessing street vitality, my goal is to contribute innovative solutions at the intersection of landscape architecture, urban planning, and sustainability.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
