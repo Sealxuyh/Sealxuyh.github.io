@@ -34,7 +34,7 @@ Ongoing papers & projects
 * Master Thesis: A study on land assessment in the peripheral zones of urban scenic areas based on ecosystem services. In preparation.
 * Urban edges, conservation frontiers: Buffer zone planning and management around urban protected areas  - Lessons from Chinese national scenic areas. In preparation.
     
-Talks
+Conference presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
