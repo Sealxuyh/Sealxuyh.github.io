@@ -26,11 +26,11 @@ Publications
 
 Ongoing projects
 ======
-* Rui, J., Xu, Y., & Liu X. Destigmatizing urban villages by examining their attractiveness: Quantification evidence from Shenzhen. Habitat International, Major Revision.
-* Ma, X., Xu, Y. (Corresponding Author), Pan, M., and Jiang, K. Rethinking public service facility distribution and management strategies with the consideration of carbon peak – Insights from Suzhou, China. Journal of Cleaner Production, Major Revision.
-* Xu, Y., & Tang, J. Urban edges, conservation frontiers: Buffer zone planning and management around urban protected areas - Insights from Chinese national-level scenic areas. Landscape and Urban Planning, Under Review.
-* Xu, Y., and Ma, X. A study of street vitality based on visual and auditory perception: A case study of historic urban area in Guangzhou, China. The International Review for Spatial Planning and Sustainable Development, Under Review.
-* Xu, Y., & Yang, T. Can we have it all? Evaluating environmental and socioeconomic tradeoffs in the Guangdong-Hong Kong-Macao Greater Bay Area, China. In preparation.
+* Rui, J., **Xu, Y.**, & Liu X. Destigmatizing urban villages by examining their attractiveness: Quantification evidence from Shenzhen. Habitat International, Major Revision.
+* Ma, X., **Xu, Y. (Corresponding Author)**, Pan, M., and Jiang, K. Rethinking public service facility distribution and management strategies with the consideration of carbon peak – Insights from Suzhou, China. Journal of Cleaner Production, Major Revision.
+* **Xu, Y.**, & Tang, J. Urban edges, conservation frontiers: Buffer zone planning and management around urban protected areas - Insights from Chinese national-level scenic areas. Landscape and Urban Planning, Under Review.
+* **Xu, Y.**, & Ma, X. A study of street vitality based on visual and auditory perception: A case study of historic urban area in Guangzhou, China. The International Review for Spatial Planning and Sustainable Development, Under Review.
+* **Xu, Y.**, & Yang, T. Can we have it all? Evaluating environmental and socioeconomic tradeoffs in the Guangdong-Hong Kong-Macao Greater Bay Area, China. In preparation.
 * Master Thesis: A study on land assessment in the peripheral zones of urban scenic areas based on ecosystem services. In preparation.
     
 Conference presentations
