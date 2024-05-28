@@ -11,7 +11,7 @@ Hello, I am Yuhan Xu, a dynamic and self-motivated Master's student in Landscape
 
 My recent publication, "Examining the rationality of Giant Panda National Park's zoning designations and management measures for habitat conservation: Insights from interpretable machine learning methods," integrates species distribution models with interpretable machine learning methods to analyze the effects of environmental and anthropogenic factors on giant panda habitat distribution ([Science of The Total Environment, 170955](https://yuhanxu.top/publication/2024-02-13-paper)). This study reveals significant conflicts between human activities and protected areas and provides recommendations for effective zoning and management.
 
-Currently, my research focuses on the application of ecosystem service concepts and environmental economics methods to promote urban sustainability.
+Currently, I am researching the application of ecosystem service concepts and environmental economics methods to promote urban sustainability.
 
 In addition to my academic pursuits, I have a solid background in urban design and landscape planning. During my time as a graduate student, I have actively engaged in various practical projects, particularly under the mentorship of Aassociate Professor [Tang Jun](https://arch.seu.edu.cn/jz_en/2019/1116/c41171a410236/page.htm). Notable projects include involvement in two comprehensive plans for scenic areas, a category of protected areas in China, where I gained a profound understanding of the inherent conflicts between environmental protection and economic development. I also contributed to the landscape architecture components of several urban design competitions, broadening my perspective by participating in interdisciplinary discussions.
 
