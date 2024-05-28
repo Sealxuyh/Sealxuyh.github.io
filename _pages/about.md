@@ -17,4 +17,4 @@ In addition to my academic pursuits, I have a solid background in urban design a
 
 These practical experiences have equipped me with valuable insights that motivate me to conduct interdisciplinary studies exploring the synergy between urban development and environmental sustainability. I am interested in figuring out how planning can address the trade-offs and potential conflicts, and I am driven by a desire to transfer knowledge from academia to real-world applications, truly integrating practice and research. My ultimate aim is to harmonize the often conflicting goals of environmental conservation and economic development, fostering both eco-environmental and socio-economic well-being for human society.
 
-Kindly find my CV for download [here](http://sealxuyh.github.io/files/20240524CV_Yuhan_ver2.pdf).
+Kindly find my CV for download [here](http://sealxuyh.github.io/files/20240528CV_Yuhan.pdf).
