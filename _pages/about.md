@@ -14,7 +14,7 @@ In addition to my academic pursuits, I have a strong background in urban design 
 Research interests
 ======
 * Geographic/urban data science
-* Urban ecology, (urban)ecosystem services
+* Urban ecology, (urban) ecosystem services
 * Urban sustainability
 * Climate-sensitive urban planning and design, climate justice
 
