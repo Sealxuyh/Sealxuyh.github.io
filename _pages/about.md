@@ -15,7 +15,7 @@ Research interests
 ======
 * Geographic/urban data science
 * Urban ecology, (urban)ecosystem services
-* Urban Sustainability
+* Urban sustainability
 * Climate-sensitive urban planning and design
 
 I am pursuing opportunities for a PhD position. Kindly find my CV for download [here](http://sealxuyh.github.io/files/Yuhan_XU_CV_2024-August.pdf).
