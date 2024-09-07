@@ -18,4 +18,4 @@ Research interests
 * Urban sustainability
 * Climate-sensitive urban planning and design, climate justice
 
-I am pursuing opportunities for a PhD position. Kindly find my CV for download [here](http://sealxuyh.github.io/files/Yuhan_XU_CV_2024-August.pdf).
+I am pursuing opportunities for a PhD position. Kindly find my CV for download [here](http://sealxuyh.github.io/files/Yuhan_XU_CV_2024-September.pdf).
