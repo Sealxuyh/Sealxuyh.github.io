@@ -25,3 +25,7 @@ Conference presentations
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Academic service
+======
+* Journal referees: Humanities and Social Sciences Communications, Computational Urban Science
