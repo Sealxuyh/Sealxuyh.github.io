@@ -13,8 +13,8 @@ In addition to my academic pursuits, I have a strong background in urban design 
 
 Research interests
 ======
-* Climate change adaptation, urban heat mitigation
 * Transportation and urban planning
+* Climate change adaptation, urban heat mitigation
 * Public health, environmental justice
 * Urban science, urban big data, GeoAI
 
