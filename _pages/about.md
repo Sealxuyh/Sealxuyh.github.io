@@ -14,8 +14,8 @@ In addition to my academic pursuits, I have a strong background in urban design 
 Research interests
 ======
 * Climate change adaptation, urban heat mitigation
-* Nature-based solutions
-* Urban science, urban big data, GeoAI
+* Transportation and urban planning
 * Public health, environmental justice
+* Urban science, urban big data, GeoAI
 
 I am currently seeking opportunities for a PhD position. Kindly find my CV for download [here](http://sealxuyh.github.io/files/Yuhan_XU_CV_2024-November.pdf).
